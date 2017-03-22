@@ -2,7 +2,7 @@
    "workflowApiVersion": "1.0",
    "metaData": {
        "icon": "images/line.png",
-       "iconSmall": "images/lineSmall.png",
+       "iconSmall": "images/line.png",
        "category": "message",
 	   "isConfigured":true
    },
