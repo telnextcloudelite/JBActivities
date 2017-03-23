@@ -1,8 +1,8 @@
 {
    "workflowApiVersion": "1.0",
    "metaData": {
-       "icon": "images/Wechat_40.png",
-       "iconSmall": "images/Wechat_40.png",
+       "icon": "images/Instagram_40.png",
+       "iconSmall": "images/Instagram_40.png",
        "category": "message",
 	   "isConfigured":true
    },
