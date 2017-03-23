@@ -1,8 +1,8 @@
 {
    "workflowApiVersion": "1.0",
    "metaData": {
-       "icon": "images/instagram.png",
-       "iconSmall": "images/instagram.png",
+       "icon": "images/icon_instagram.png",
+       "iconSmall": "images/icon_instagram.png",
        "category": "message",
 	   "isConfigured":true
    },
